@@ -12,7 +12,7 @@
 # 설문조사 
 ---
  [질문지 링크](https://forms.gle/apcjFRh9kpr36MkeA)
-//![jigugn](img/1.jpg)
+ 
 ---
 
 ---
