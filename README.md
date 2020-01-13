@@ -10,10 +10,10 @@
  ---
 
 # 설문조사 
----
- [질문지 링크](https://forms.gle/apcjFRh9kpr36MkeA)
+
+[질문지 링크](https://forms.gle/apcjFRh9kpr36MkeA)
  
----
+
 
 ---
 # 문제 정의
